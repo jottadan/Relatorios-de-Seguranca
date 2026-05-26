@@ -1,5 +1,5 @@
 # Análise de Scam de Robux via Encurtador e CPI
-Author: João  
+Author: João Pedro  
 Date: 2026
 
 ## Resumo
