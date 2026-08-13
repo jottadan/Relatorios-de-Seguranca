@@ -1,6 +1,6 @@
 # Análise de Scam de Robux via Encurtador e CPI
-Author: João Pedro  
-Date: Março-2026
+Autor: João Pedro  
+Data: Março-2026
 
 ## Resumo
 Este relatório analisa um golpe disseminado através de comentários em massa prometendo Robux gratuitos. O link fornecido utiliza um encurtador legítimo e redireciona usuários para um aplicativo na Google Play Store, caracterizando uma estratégia de monetização via engenharia social e instalação de aplicativos (CPI).
