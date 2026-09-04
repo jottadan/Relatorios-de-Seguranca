@@ -1,6 +1,6 @@
 # Relatórios de Segurança
 
-Este repositório contém análises de golpes, phishing e técnicas de engenharia social.
+Este repositório contém análises de segurança com base em evento suspeito que encontro aleatoriamente.
 
 ## Conteúdo
 
@@ -8,7 +8,8 @@ Este repositório contém análises de golpes, phishing e técnicas de engenhari
 
 ## Objetivo
 
-Compreender habilidades práticas em:
+Desenvolver habilidades práticas em:
 - Web Security
-- Threat Analysis
-- Engenharia Social
+- Detection
+- Log Analysis
+- Incident Investigation
