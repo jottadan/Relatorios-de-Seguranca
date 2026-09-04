@@ -8,7 +8,7 @@ Este repositório contém análises de golpes, phishing e técnicas de engenhari
 
 ## Objetivo
 
-Desenvolver habilidades práticas em:
+Compreender habilidades práticas em:
 - Web Security
 - Threat Analysis
 - Engenharia Social
