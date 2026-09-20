@@ -103,7 +103,7 @@ Possível comprometimento da conta
 ```
 
 A reprodução desse cenário foi realizada com sucesso durante a
-investigação. Veja **evidence.md**.
+investigação. Veja **[evidence.md](evidence.md)**.
 
 ---
 
