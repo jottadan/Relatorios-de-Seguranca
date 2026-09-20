@@ -8,8 +8,4 @@ Este repositório contém análises de segurança sobre eventos criados artifici
 
 ## Objetivo
 
-Desenvolver habilidades práticas em:
-- Web Security
-- Detection
-- Log Analysis
-- Incident Investigation
+Desenvolver habilidades práticas em investigações de tráfego web ou análises.
