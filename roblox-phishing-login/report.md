@@ -139,6 +139,8 @@ O cenário reproduzido é mais compatível com uma campanha de **phishing**
 um meio de aproximação da vítima e o roubo de credenciais ocorre em uma
 etapa posterior.
 
+Junto da tática de phishing in-game, não se descarta a possibilidade de manipulação do usuário para ser redirecionado para fora do site e então, fazer o roubo de credenciais.
+
 Portanto, a afirmação de que **“aceitar a solicitação de amizade faz a**
 **conta ser hackeada”, que está circulando pelas redes, não foi confirmada pelos testes realizados.**
 
