@@ -84,6 +84,7 @@ legítimos da plataforma como parte da engenharia social.
 
 A cadeia observada pode ser representada da seguinte forma:
 
+```text
 **Solicitação de amizade**
 ↓
 **Vítima aceita**
@@ -99,6 +100,7 @@ A cadeia observada pode ser representada da seguinte forma:
 **Credenciais são enviadas para infraestrutura externa**
 ↓
 **Possível comprometimento da conta**
+```
 
 A reprodução desse cenário foi realizada com sucesso durante a
 investigação.
