@@ -5,6 +5,7 @@ Este repositório contém análises de segurança sobre eventos criados artifici
 ## Conteúdo
 
 - Robux Scam Analysis (Redirecionamento + CPI)
+- Roblox Phishing Login (uso malicioso de ferramentas legítimas)
 
 ## Objetivo
 
