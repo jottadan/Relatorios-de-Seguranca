@@ -85,21 +85,21 @@ legítimos da plataforma como parte da engenharia social.
 A cadeia observada pode ser representada da seguinte forma:
 
 ```text
-**Solicitação de amizade**
+Solicitação de amizade
 ↓
-**Vítima aceita**
+Vítima aceita
 ↓
-**Atacante estabelece contato**
+Atacante estabelece contato
 ↓
-**Falso evento de moderação / expulsão do jogo**
+Falso evento de moderação / expulsão do jogo
 ↓
-**Falsa tela de login**
+Falsa tela de login
 ↓
-**Vítima fornece as credenciais**
+Vítima fornece as credenciais
 ↓
-**Credenciais são enviadas para infraestrutura externa**
+Credenciais são enviadas para infraestrutura externa
 ↓
-**Possível comprometimento da conta**
+Possível comprometimento da conta
 ```
 
 A reprodução desse cenário foi realizada com sucesso durante a
