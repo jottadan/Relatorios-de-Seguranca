@@ -9,4 +9,4 @@ Este repositório contém análises de segurança sobre eventos criados artifici
 
 ## Objetivo
 
-Desenvolver habilidades práticas em investigações de tráfego web e análises.
+Desenvolver habilidades práticas em investigações de tráfego e análises de atividades suspeitas.
