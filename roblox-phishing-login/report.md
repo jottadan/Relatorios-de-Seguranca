@@ -77,7 +77,7 @@ Nenhum dado desse tipo foi identificado.
 
 ## Investigação do possível phishing
 
-Após os testes de tráfego, foi analisado um dos relatos que foi divulgado no TikTok, nele foi levantado a hipótese alternativa para explicar os relatos de contas comprometidas.
+Após os testes de tráfego, foi notado que em um dos relatos que foi divulgado no TikTok, havia o detalhe de "ser convidado para uma experiência/jogo", com isso em mente, foi levantado a hipótese alternativa para explicar os relatos de contas comprometidas.
 
 Foi possível reproduzir um cenário de phishing utilizando recursos
 legítimos da plataforma como parte da engenharia social.
