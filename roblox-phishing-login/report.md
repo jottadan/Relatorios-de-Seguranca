@@ -1,5 +1,10 @@
 # Investigação — Campanha de Phishing no Roblox
 
+Autor: João Pedro
+Data: Setembro/2026
+
+---
+
 ## Contexto
 
 Recentemente, começou a circular nas redes sociais um alerta afirmando
