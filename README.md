@@ -9,4 +9,4 @@ Este repositório contém análises de segurança sobre eventos criados artifici
 
 ## Objetivo
 
-Desenvolver habilidades práticas em investigações de tráfego e análises de atividades suspeitas.
+Desenvolver habilidades práticas em investigações relacionadas as atividades de um **Centro de Operações de Segurança (SOC)** e **Inteligência de Ameaças Cibernéticas (CTI).**
