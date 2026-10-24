@@ -8,7 +8,7 @@
 | Data desta versão | 24/10/2026 |
 | Período dos relatos investigados | Não informado no material disponível |
 | Analista | João P. |
-| Classificação de compartilhamento | Público, após revisão e sanitização das evidências |
+| Classificação de compartilhamento | Público |
 | Identificador do caso | João P. |
 
 ---
