@@ -6,7 +6,6 @@
 | Tipo de produto | Análise de ameaça com foco tático e contextualização operacional |
 | Status | Preliminar — cenário reproduzido em ambiente controlado; campanha real não confirmada |
 | Data desta versão | 24/10/2026 |
-| Período dos relatos investigados | Não informado no material disponível |
 | Analista | João P. |
 | Classificação de compartilhamento | Público |
 | Identificador do caso | João P. |
