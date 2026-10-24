@@ -226,11 +226,11 @@ Assim, a formulação mais bem sustentada pelas evidências disponíveis é: **a
 
 | ID | Arquivo referenciado | Conteúdo descrito | O que pode sustentar | Limite da evidência descrita |
 |---|---|---|---|---|
-| EV-001 | `images/a.png` | Estrutura de `ReplicatedStorage` com `RemoteEvent` chamado `SimulationSubmit`. | Existência do objeto de comunicação no ambiente de teste. | Não comprova, isoladamente, que dados foram enviados ou para onde. |
-| EV-002 | `images/b.png` | Estrutura do `StarterGui`, incluindo `ScreenGui`. | Estrutura visual da interface no ambiente de teste. | Não estabelece que a interface exista em experiências de terceiros. |
-| EV-003 | `images/c.png` | Interface de falsa verificação, com campo de entrada e botão de continuação. | Aparência e componentes da simulação. | A descrição não demonstra uma página de login real nem coleta de credenciais reais. |
-| EV-004 | `images/d.png` | Código/execução do envio por `FireServer()` e recebimento pelo servidor, usando valor fictício. | Fluxo cliente → `RemoteEvent` → servidor de teste. | Não comprova exfiltração externa nem uso de credenciais para takeover. |
-| EV-005 | `images/e.png` | Caixa de diálogo de expulsão após a etapa de teste. | Uso de expulsão como elemento da simulação. | Não comprova moderação real, exploração ou comprometimento de conta. |
+| EV-001 | `1.` | Estrutura de `ReplicatedStorage` com `RemoteEvent` chamado `SimulationSubmit`. | Existência do objeto de comunicação no ambiente de teste. | Não comprova, isoladamente, que dados foram enviados ou para onde. |
+| EV-002 | `2.` | Estrutura do `StarterGui`, incluindo `ScreenGui`. | Estrutura visual da interface no ambiente de teste. | Não estabelece que a interface exista em experiências de terceiros. |
+| EV-003 | `3.` | Interface de falsa verificação, com campo de entrada e botão de continuação. | Aparência e componentes da simulação. | A descrição não demonstra uma página de login real nem coleta de credenciais reais. |
+| EV-004 | `4.` | Código/execução do envio por `FireServer()` e recebimento pelo servidor, usando valor fictício. | Fluxo cliente → `RemoteEvent` → servidor de teste. | Não comprova exfiltração externa nem uso de credenciais para takeover. |
+| EV-005 | `5.` | Caixa de diálogo de expulsão após a etapa de teste. | Uso de expulsão como elemento da simulação. | Não comprova moderação real, exploração ou comprometimento de conta. |
 
 ## Apêndice B — Fontes e materiais consultados
 
