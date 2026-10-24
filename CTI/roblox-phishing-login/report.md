@@ -239,22 +239,10 @@ Assim, a formulação mais bem sustentada pelas evidências disponíveis é: **a
 - `README` da investigação — descrição dos testes, hipótese e conclusão preliminar.
 - `evidence.md` — descrições das evidências visuais da PoC controlada.
 - Relato do TikTok mencionado pelo investigador — **URL, data e captura pendentes de inclusão**.
-- Registros brutos de tráfego e código da PoC — **não incluídos no material recebido para elaboração desta versão**.
+- Registros brutos de tráfego e código da PoC — **não incluídos no material para elaboração desta versão**.
 
 ### Referências metodológicas externas
 
 - MITRE ATT&CK, **Phishing: Spearphishing via Service (T1566.003)**: https://attack.mitre.org/techniques/T1566/003/
 - MITRE ATT&CK, **Input Capture: Web Portal Capture (T1056.003)**: https://attack.mitre.org/techniques/T1056/003/
-- MITRE ATT&CK, **User Execution: Malicious Link (T1204.001)**: https://attack.mitre.org/techniques/T1204/001/
 
-## Apêndice C — Checklist antes da publicação
-
-- [ ] Inserir URL, data e captura do relato público original.
-- [ ] Validar as imagens `a.png` a `e.png` e manter os arquivos no repositório.
-- [ ] Adicionar registros técnicos que sustentem cada resultado de tráfego, com segredos e identificadores pessoais sanitizados.
-- [ ] Esclarecer qual dado foi considerado sensível no corpo da requisição e por que ele foi classificado dessa forma.
-- [ ] Separar visualmente os eventos observados na PoC das etapas hipotéticas do ataque real.
-- [ ] Confirmar ou remover qualquer afirmação de envio a infraestrutura externa.
-- [ ] Não incluir credenciais, tokens, dados pessoais ou indicadores não validados.
-- [ ] Atualizar o mapeamento ATT&CK apenas após revisar a evidência que sustenta cada técnica.
-- [ ] Remover os campos pendentes e revisar o documento antes de classificá-lo como versão final.
