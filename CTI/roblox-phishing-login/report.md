@@ -245,3 +245,16 @@ Assim, a formulação mais bem sustentada pelas evidências disponíveis é: **a
 - MITRE ATT&CK, **Phishing: Spearphishing via Service (T1566.003)**: https://attack.mitre.org/techniques/T1566/003/
 - MITRE ATT&CK, **Input Capture: Web Portal Capture (T1056.003)**: https://attack.mitre.org/techniques/T1056/003/
 
+---
+
+## Executive summary
+
+Public reports claimed that Roblox users could lose their accounts simply by accepting friend requests from certain profiles. The investigation sought to assess whether this action, in isolation, exposes data capable of allowing control of an account and examine an alternative hypothesis based on social engineering and phishing.
+
+Two controlled accounts were used to observe traffic associated with friend requests, blocking/unblocking and chat interactions. Based on recorded results, testing did not identify evidence that these interactions alone provided the observer account with sufficient credentials, authentication tokens, or other data to take control of the target account. The material mentions data associated with the account present in the body of a request, but it was not possible to observe ways of accessing this sensitive information without being the owner of the account itself, therefore, it cannot be classified in this report as a credential or exploitable token.
+
+In parallel, a controlled social engineering scenario was reproduced within a test experiment. The documentation describes a mock check/moderation interface, an input field, and the passing of a dummy value from the client to the experiment server via a RemoteEvent. The scenario demonstrates that a deceptive interface within an experience can request information and forward it to the controlled server. The documentation presented, however, does not in itself prove the collection of real credentials, the transmission to an external infrastructure or the effective compromise of a Roblox account.
+
+Main judgment: the tests described do not support the claim that accepting a friend request is, in itself, a direct commitment mechanism. Phishing mediated by social engineering is a plausible hypothesis to explain some reports, but the link between proof of concept (PoC) and real incidents remains unconfirmed.
+
+Defensive implication: Users should not provide passwords or authentication codes in experience interfaces, messages, or supposed moderation flows. To confirm the campaign hypothesis, additional evidence is needed from the original reports, the actual collection flow and any external URLs or infrastructures.
